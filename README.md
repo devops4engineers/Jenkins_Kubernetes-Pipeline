@@ -10,3 +10,6 @@ installation of Jenkins
 installation of Kubernetes cluster
 setup jenkins server to deploy applications into Kubernetes Clusters
 Build and deploy Docker application from Jenkins in K8 Cluster using pippe line of scripts
+
+install jenkins user UBUNUT22.01TLS --> Refer to the jenkins install script for details
+install docker --> refer to the docker install script for details
